@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/googlesignin2/app/src/main/res/drawable/gradient_bg.xml" value="0.2105" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/googlesignin2/app/src/main/res/drawable/ic__022_07_13.xml" value="0.103" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/googlesignin2/app/src/main/res/drawable/ic_abhishej_adobe_express.xml" value="0.1" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/googlesignin2/app/src/main/res/drawable/ic_abhishej_removebg_preview_adobe_express.xml" value="0.1" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/googlesignin2/app/src/main/res/drawable/ic_applof.xml" value="0.1265" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/googlesignin2/app/src/main/res/drawable/ic_baseline_photo_library_24.xml" value="0.1" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/googlesignin2/app/src/main/res/drawable/ic_event.xml" value="0.1" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/googlesignin2/app/src/main/res/drawable/ic_home.xml" value="0.1" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/googlesignin2/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.1" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/googlesignin2/app/src/main/res/drawable/ic_menu.xml" value="0.2075" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/googlesignin2/app/src/main/res/drawable/ic_notifications.xml" value="0.1" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/googlesignin2/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.1" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/googlesignin2/app/src/main/res/drawable/ic_profile.xml" value="0.1" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/googlesignin2/app/src/main/res/drawable/ic_splasfd.xml" value="0.1" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/googlesignin2/app/src/main/res/layout/activity_bottom_navigation.xml" value="0.1" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/googlesignin2/app/src/main/res/layout/activity_main.xml" value="0.14447463768115942" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/googlesignin2/app/src/main/res/layout/activity_main2.xml" value="0.1721014492753623" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/googlesignin2/app/src/main/res/layout/activity_menu2.xml" value="0.1721014492753623" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/googlesignin2/app/src/main/res/layout/activity_practice123.xml" value="0.16576086956521738" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/googlesignin2/app/src/main/res/layout/activity_profile2.xml" value="0.20364583333333333" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/googlesignin2/app/src/main/res/layout/activity_profile3.xml" value="0.33" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/googlesignin2/app/src/main/res/layout/activity_registration1.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/googlesignin2/app/src/main/res/layout/activity_splash1.xml" value="0.10190217391304347" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/googlesignin2/app/src/main/res/layout/activity_splash2.xml" value="0.10190217391304347" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/googlesignin2/app/src/main/res/layout/fragment_blank.xml" value="0.1721014492753623" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/googlesignin2/app/src/main/res/layout/fragment_event.xml" value="0.1721014492753623" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/googlesignin2/app/src/main/res/layout/fragment_home.xml" value="0.3842239185750636" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/googlesignin2/app/src/main/res/layout/fragment_notification.xml" value="0.1721014492753623" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/googlesignin2/app/src/main/res/layout/fragment_profile.xml" value="0.1721014492753623" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/googlesignin2/app/src/main/res/layout/practice.xml" value="0.16576086956521738" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/googlesignin2/app/src/main/res/menu/bottom_nav_menu.xml" value="0.14270833333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
